@@ -1,3 +1,14 @@
+# Logistics Website App
+## Overview
+The Logistics Website App is designed to streamline the management of logistics and supply chain operations. It offers a comprehensive platform for tracking shipments, managing inventory, and coordinating deliveries, providing real-time data and analytics to optimize logistics processes.
+
+## Features
+1. Shipment Tracking: Monitor the status and location of shipments in real-time.
+2. Inventory Management: Manage stock levels, update inventory, and track stock movements.
+3. Delivery Coordination: Schedule and coordinate deliveries with detailed timelines.
+4. Analytics Dashboard: Access real-time data and insights on logistics operations.
+5. User Management: Administer user roles and permissions for secure access.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
